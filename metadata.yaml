@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20884#Yhdysel-m--
 gutenberg_issued: '2007-03-23'
 gutenberg_type: Text
 identifiers:
