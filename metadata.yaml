@@ -1,0 +1,37 @@
+_repo: Yhdysel-m--_20884
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Roschier, Tekla
+    alias: Lampén, Tekla
+    birthdate: 1870
+    deathdate: 1928
+    gutenberg_agent_id: '6159'
+    url: http://www.gutenberg.org/2009/agents/6159
+    wikipedia: http://fi.wikipedia.org/wiki/Tekla_Roschier
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2007-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20884'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Yhdyselämää
+url: http://www.gutenberg.org/ebooks/20884
